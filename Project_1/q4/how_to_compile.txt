@@ -1,0 +1,1 @@
+g++ prob4.cpp image.cpp ReadImage.cpp ReadImageHeader.cpp WriteImage.cpp

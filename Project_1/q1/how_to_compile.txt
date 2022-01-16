@@ -1,0 +1,1 @@
+g++ image.cpp image.h ReadImage.cpp ReadImageHeader.cpp Sampling.cpp WriteImage.cpp -o Sampling.exe

@@ -1,0 +1,1 @@
+g++ image.cpp image.h ReadImage.cpp ReadImageHeader.cpp Equalize.cpp WriteImage.cpp -o Equalize.exe
